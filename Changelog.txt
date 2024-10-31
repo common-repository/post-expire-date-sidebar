@@ -1,0 +1,17 @@
+== Changelog ==
+
+= 1.3 =
+* Fixed Bugs
+* Added support for pages and Custom post type
+
+= 1.2.1 =
+* Fixed PHP Warnings
+
+= 1.2 =
+* Fixed Warnings
+
+= 1.1 =
+* Added shortcode support.
+ 
+= 1.0 =
+* Initial release.
